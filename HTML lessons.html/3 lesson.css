@@ -1,0 +1,120 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: rgb(248, 241, 241);
+}
+
+.table1{
+
+  border: 3px solid orange;
+  color: orange;
+  margin: 10px auto;
+  margin-bottom: 15px;
+  margin-top: 50px;
+  padding: 5px 5px 5px ;
+  height: 50px;
+  width: 300px;
+  border-radius: 20px 0px 20px 0px ;
+  background-color: rgb(255, 254, 254);
+
+}
+
+.o1{
+  text-align: center;
+}
+
+.orange{
+  text-align: center;
+border: 1px solid orange;
+color: white;
+background-color: orange;
+border-radius: 20px 0px 20px 0px;
+width: 50px;
+ font-size: 28px; 
+ border:white ridge 5px ;
+ 
+}
+
+
+
+.table2{
+  border: 3px solid green;
+  color: green;
+  margin: 10px auto;
+  margin-bottom:15px ;
+  margin-top: 15px;
+  padding: 5px 5px 5px;
+  height: 50px;
+  width: 300px;
+  border-radius: 20px 0px ;
+  
+  
+
+}
+
+.green{
+  text-align: center;
+  font-size: 28px;
+  border: 1px solid green;
+  color: white; 
+  background-color: green;
+border-radius: 20px 0px 20px 0px;
+  width: 50px;
+  border: white ridge 5px;
+  
+}
+.o2{
+  text-align: center;
+  
+}
+.table3{
+  border: 3px solid;
+  border-radius: 20px 0px 20px 0px;
+  color: cyan;
+  margin: 10px auto;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  padding: 5px 5px 5px; 
+  height: 50px;
+  width: 300px;
+  border-bottom-style:0  ;
+}
+.cyan{
+  text-align: center;
+  font-size: 28px;
+border: 1px solid cyan;
+color: white;
+background-color: cyan;
+border-radius: 20px 0px 20px 0px;
+width: 50px;
+
+}
+.o3{
+  text-align: center; 
+}
+
+.table4{
+  border: 3px solid purple;
+  border-radius: 20px 0px 20px 0;
+  margin: 10px auto;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  padding: 5px 5px 5px;
+  height: 50px;
+  width: 300px;
+
+}
+.pruple{
+  text-align: center;
+  border: 1px solid purple;
+ color: white;
+  background-color: purple;
+   border-radius: 20px 0px 20px 0;
+  width: 50px;
+  font-size: 28px;
+}
+.o4{
+  text-align: center;
+}

@@ -1,0 +1,10 @@
+*{
+  margin: 10px;
+  padding: 10px;
+}
+.table{
+  border: 3px solid;
+  background-color: tomato;
+  color: rgb(49, 31, 218);
+  margin: 10px auto;
+}
